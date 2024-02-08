@@ -18,10 +18,7 @@ if __name__ == "__main__":
         # 'https://www.youtube.com/watch?v=VIDEO_ID_1',
         # 'https://www.youtube.com/watch?v=VIDEO_ID_2',
         # # # Adicione mais links conforme necessário
-        
-        # https://www.youtube.com/watch?v=CGdbSAi99H4
-        # https://www.youtube.com/watch?v=W9_KJKlg92c
-        # https://www.youtube.com/watch?v=wKvur8YsQmg
+
     ]
 
     baixar_videos(links)
