@@ -10,6 +10,7 @@
 
 - enter in the console:
    pip install pytube
+   pip install moviepy
 
 - run the editor code
 
