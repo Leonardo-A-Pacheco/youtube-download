@@ -30,3 +30,4 @@ if __name__ == "__main__":
 
     downloader = Downloader(links)
     downloader.baixar_videos()
+
