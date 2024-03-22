@@ -30,6 +30,6 @@ class YouTubeDownloaderMp3:
 
 # Exemplo de uso
 downloader = YouTubeDownloaderMp3()
-url = "https://www.youtube.com/watch?v=bUjQNMH1HYw"
-nome_arquivo = "Oceano"
+url = "https://www.youtube.com/watch?v=mdlzdu6jZ30&t=2932s"
+nome_arquivo = "Eng-havaii-live-mtv"
 downloader.extrair_mp3(url, nome_arquivo)

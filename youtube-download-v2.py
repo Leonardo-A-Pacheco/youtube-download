@@ -25,6 +25,8 @@ class Downloader:
 if __name__ == "__main__":
     # Lista de links dos vídeos do YouTube
     links = [
+    # 'https://www.youtube.com/watch?v=z7NxSLiT3cI'
+    # 'https://www.youtube.com/watch?v=z7NxSLiT3cI',
         # insira seus links aqui
 
     ]
