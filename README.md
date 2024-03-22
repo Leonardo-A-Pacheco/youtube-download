@@ -9,7 +9,8 @@
 - paste into code editor
 
 - enter in the console:
-   pip install pytube
+- pip install pytube
+- pip install moviepy
 
 - run the editor code
 
@@ -26,7 +27,8 @@ have a good time...
 - cole no editor de codigo 
 
 - insira no console:
-  pip install pytube
+- pip install pytube
+- pip install moviepy
 
 - execute o codigo do editor
 
